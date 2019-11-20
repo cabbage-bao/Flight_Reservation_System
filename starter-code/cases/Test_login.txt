@@ -1,0 +1,8 @@
+create bcy123 12345 10
+login bcy123 12345
+quit
+* 
+Created user bcy123
+Logged in as bcy123
+Goodbye
+*

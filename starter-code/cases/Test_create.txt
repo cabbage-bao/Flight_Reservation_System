@@ -1,0 +1,6 @@
+create bcy123 12345678 10000
+quit
+*
+Created user bcy123
+Goodbye
+*
